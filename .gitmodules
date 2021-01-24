@@ -1,3 +1,34 @@
-[submodule "test_sub1/tozip"]
-	path = test_sub1/tozip
+
+[submodule "Tran_Hang/tozip"]
+	path = Tran_Hang/tozip
 	url = https://github.com/tranhangt/tozip.git
+[submodule "Manh_Tuan/football"]
+	path = Manh_Tuan/football
+	url = https://github.com/manhtuan112/football.git
+[submodule "Quynh_Trang/Virus_hunter2"]
+	path = Quynh_Trang/Virus_hunter2
+	url = https://github.com/quynhtrangn/Virus_hunter2.git
+[submodule "Dang_Dung/firstgame"]
+	path = Dang_Dung/firstgame
+	url = https://github.com/DungDangTran/firstgame.git
+[submodule "Duc_Minh/ZOMBIE-KILLER_GAME_CPP"]
+	path = Duc_Minh/ZOMBIE-KILLER_GAME_CPP
+	url = https://github.com/Hngdcmnh/ZOMBIE-KILLER_GAME_CPP.git
+[submodule "Bich_Diep/game"]
+	path = Bich_Diep/game
+	url = https://github.com/diepdao1708/game.git
+[submodule "Minh_Phuong/Game-CPP"]
+	path = Minh_Phuong/Game-CPP
+	url = https://github.com/zeropkd4105/Game-CPP.git
+[submodule "Van_Luc/CPPGame"]
+	path = Van_Luc/CPPGame
+	url = https://github.com/pandora7012/CPPGame.git
+[submodule "Thu_Thao/game"]
+	path = Thu_Thao/game
+	url = https://github.com/punkundo/game.git
+[submodule "Hong_Duong/DefendPROPTIT"]
+	path = Hong_Duong/DefendPROPTIT
+	url = https://github.com/Sudo-Q/DefendPROPTIT.git
+[submodule "Huy_Pham/-GAME-SAVE-CABBAGE"]
+	path = Huy_Pham/-GAME-SAVE-CABBAGE
+	url = https://github.com/huypham85/-GAME-SAVE-CABBAGE.git
