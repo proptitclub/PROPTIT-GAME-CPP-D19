@@ -32,3 +32,12 @@
 [submodule "Huy_Pham/-GAME-SAVE-CABBAGE"]
 	path = Huy_Pham/-GAME-SAVE-CABBAGE
 	url = https://github.com/huypham85/-GAME-SAVE-CABBAGE.git
+[submodule "Pham_Nga/Ren"]
+	path = Pham_Nga/Ren
+	url = https://github.com/thisisRen/Ren.git
+[submodule "Duy_Dung/PiratesBomb"]
+	path = Duy_Dung/PiratesBomb
+	url = https://github.com/duydung271/PiratesBomb.git
+[submodule "Quang_Duong/Game"]
+	path = Quang_Duong/Game
+	url = https://github.com/yeuduong0201/Game.git
