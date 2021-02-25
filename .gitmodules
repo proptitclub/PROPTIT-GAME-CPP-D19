@@ -42,3 +42,24 @@
 	path = Quang_Duong/Game
 	url = https://github.com/yeuduong0201/Game.git
 
+[submodule "Huyen_Trang"]
+	path = Huyen_Trang
+	url = https://github.com/huyentrang02/Jumping/tree/master
+[submodule "Van_Hau"]
+	path = Van_Hau
+	url = https://github.com/havukaka/Games.git
+[submodule "Xuan_Minh"]
+	path = Xuan_Minh
+	url = https://github.com/vuasanban/OAnQuan.git
+[submodule "Nguyen_Uyen"]
+	path = Nguyen_Uyen
+	url = https://github.com/uyenuyen2k1/uyen2k1.git
+[submodule "Quynh_Mai"]
+	path = Quynh_Mai
+	url = https://github.com/nqm-311001/GameC-.git
+[submodule "Hao_Pham"]
+	path = Hao_Pham
+	url = https://github.com/haopham24/HP.git
+[submodule "Thanh_Binh"]
+	path = Thanh_Binh
+	url = https://github.com/thanhbinhle41/Binh-Thanh-Le.git
