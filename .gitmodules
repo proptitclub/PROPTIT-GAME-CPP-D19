@@ -63,3 +63,13 @@
 [submodule "Thanh_Binh"]
 	path = Thanh_Binh
 	url = https://github.com/thanhbinhle41/Binh-Thanh-Le.git
+[submodule "Phuong_Hoa/Tris1702"]
+	path = Phuong_Hoa/Tris1702
+	url = https://github.com/Tris1702/The-Hole.git
+
+[submodule "Quang_Truong/erick20701"]
+	path = Quang_Truong/erick20701
+	url = https://github.com/erick20701/erick20701.github.io.git
+[submodule "Duc_Long/GameCpp"]
+	path = Duc_Long/GameCpp
+	url = https://github.com/lng8212/GameCpp.git
